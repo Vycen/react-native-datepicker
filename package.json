@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/xgfe/react-native-datepicker#readme",
   "dependencies": {
-    "moment": "moment/moment#4187/head"
+    "moment": "tqc/moment#no-dynamic-import"
   },
   "devDependencies": {
     "babel-core": "^6.5.2",
